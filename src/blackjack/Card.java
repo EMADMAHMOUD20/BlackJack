@@ -17,6 +17,8 @@ public class Card {
     }
 
     public int getSuit() {
+        String name = "Mohamed Ibrahim" ;
+        System.out.println(name);
         return suit;
     }
 
