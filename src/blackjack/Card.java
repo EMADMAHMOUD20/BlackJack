@@ -17,9 +17,14 @@ public class Card {
     }
 
     public int getSuit() {
+<<<<<<< HEAD
         String name="omda";
         int age=20;
         //emad
+=======
+        String name = "Mohamed Ibrahim" ;
+        System.out.println(name);
+>>>>>>> upstream/main
         return suit;
     }
 
