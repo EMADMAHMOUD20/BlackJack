@@ -17,6 +17,8 @@ public class Card {
     }
 
     public int getSuit() {
+        String name="omda";
+        int age=20;
         return suit;
     }
 
